@@ -151,7 +151,7 @@ gap: 24px;
 .Pinterest-container {
     display: flex;
     justify-content: space-around;
-gap: 24px;
+    gap: 24px;
 }
 
 .Pinterest {
